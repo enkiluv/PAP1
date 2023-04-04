@@ -1,5 +1,4 @@
 tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plot_size,latitude,longitude
-99000,DPW Maintained,Lophostemon confertus :: Seoul, Republic of Korea : Curb side : Cutout,DPW for City Agency,2011-04-18,,3x3,37.8028510037355,-122.443247276641
 99001,DPW Maintained,Lophostemon confertus :: Brisbane Box,2190X North Point St,7.0,Sidewalk: Curb side : Cutout,DPW for City Agency,2011-04-18,,3x3,37.8028510037355,-122.443247276641
 253633,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1909 Judah St,1.0,Sidewalk: Curb side : Cutout,Private,2019-05-22,,3x3,37.7613106149039,-122.48261754308001
 96059,Permitted Site,Afrocarpus gracilior :: Fern Pine,101 Montcalm St,1.0,Sidewalk: Curb side : Cutout,Private,2011-08-03,,3x3,37.746560384348705,-122.406484424587
@@ -10000,3 +9999,4 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 254527,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,4016 Judah St,1.0,Sidewalk: Curb side : Cutout,DPW,2015-04-06,,3x3,37.7605751592951,-122.50530631977199
 31941,DPW Maintained,Cordyline australis :: Dracena Palm,1426 48th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2016-01-15,2.0,3x3,37.7597572598559,-122.50795180273701
 57316,DPW Maintained,Ceratonia siliqua :: Carob,1515 Lyon St,1.0,Sidewalk: Curb side : Cutout,Private,1976-08-31,13.0,,37.7851073514303,-122.445026621162
+57317,DPW Maintained,Ceratonia siliqua :: Incheon, 22002, Korea South: Curb side : Cutout,Private,1976-08-31,13.0,,37.7851073514303,-122.445026621162
